@@ -33,7 +33,6 @@
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/websocket/websocket-icon.svg" alt="websockets" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -41,8 +40,8 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="![satyawaniaman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyawaniaman&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)" alt="aman satywani" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyawaniaman&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="aman satywani" /></p>
 
-<p>&nbsp;<img align="center" src="![satyawaniaman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=satyawaniaman&theme=vue-dark&hide_border=true)" alt="aman satyawani" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyawaniaman&theme=vue-dark&hide_border=true" alt="aman satyawani" /></p>
 
-<p><img align="center" src="![satyawaniaman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyawaniaman&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)" alt="aman satywani" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyawaniaman&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="aman satywani" /></p>
