@@ -10,20 +10,16 @@
 <!-- - 👨‍💻 All of my projects are available at [https://](https://) -->
 
 
-- 💬 Ask me about **Node.js, React, Next.js, AWS, MongoDB Etc.**
+- 💬 Ask me about **Node.js, React, Next.js, AWS, MongoDB, Etc.**
 
 - 📫 How to reach me **amansatyawani10@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aman-satyawani-2566a5222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman satyawani" height="30" width="40" /></a>
-<a href="https://x.com/satyawani_aman" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" 
-       alt="X (formerly Twitter)" height="30" width="40" 
-       style="background-color: white; padding: 5px; border-radius: 5px;"/>
-</a>
-</p>
+<div style="display: flex; flex-direction: row; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=twitter" alt="AWS" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="Nginx" width="40" height="40" style="margin-right: 10px;" />
+</div>
 
 ### Frontend
 <div style="display: flex; flex-direction: row; align-items: center;">
@@ -44,7 +40,6 @@
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="40" height="40" style="margin-right: 10px;" />
 </div>
 
 ### DevOps & Cloud Champion
@@ -52,15 +47,14 @@
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40" style="margin-right: 10px;" />
 </div>
 
 ### Code Sorcery
 <div style="display: flex; flex-direction: row; align-items: center;">
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=java" alt="C++" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" />
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40" style="margin-right: 10px;" />
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyawaniaman&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="aman satywani" /></p>
