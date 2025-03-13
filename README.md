@@ -17,8 +17,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <div style="display: flex; flex-direction: row; align-items: center;">
-  <img src="https://skillicons.dev/icons?i=twitter" alt="AWS" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="Nginx" width="40" height="40" style="margin-right: 10px;" />
+   <a href="https://x.com/satyawani_aman">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" height="40" style="margin-right: 10px;" />
+   </a>
+  <a href="https://www.linkedin.com/in/aman-satyawani-2566a5222/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" width="40" height="40" style="margin-right: 10px;" />
+  </a>
 </div>
 
 ### Frontend
