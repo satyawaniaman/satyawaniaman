@@ -18,7 +18,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aman-satyawani-2566a5222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman satyawani" height="30" width="40" /></a>
-<a href="https://x.com/satyawani_aman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X (formerly Twitter)" height="30" width="40" style="filter: brightness(0);"/></a>
+<a href="https://x.com/satyawani_aman" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" 
+       alt="X (formerly Twitter)" height="30" width="40" 
+       style="filter: invert(1);"/>
+</a>
 </p>
 
 ### Frontend
