@@ -21,7 +21,7 @@
 <a href="https://x.com/satyawani_aman" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" 
        alt="X (formerly Twitter)" height="30" width="40" 
-       style="filter: invert(1);"/>
+       style="background-color: white; padding: 5px; border-radius: 5px;"/>
 </a>
 </p>
 
