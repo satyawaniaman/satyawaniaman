@@ -62,4 +62,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyawaniaman&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="aman satywani" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=satyawaniaman&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="aman satywani" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=satyawaniaman&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="aman satywani" /></p>
