@@ -57,7 +57,4 @@
     <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40" style="margin-right: 10px;" />
 </div>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyawaniaman&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="aman satywani" />
-  <img src="https://github-readme-stats.vercel.app/api?username=satyawaniaman&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="aman satywani" />
-</p>
+  <img aligt="left" src="https://github-readme-stats.vercel.app/api?username=satyawaniaman&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="aman satywani" />
