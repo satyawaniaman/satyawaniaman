@@ -1,60 +1,66 @@
 <h1 align="center">Hi 👋, I'm Aman Satywani</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">Full-Stack Developer | Building Scalable & Edge-Powered Web Apps</h3>
+
+<p align="center">
+  <a href="https://amansatyawani.online/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/aman-satyawani-2566a5222/">LinkedIn</a> •
+  <a href="https://x.com/satyawani_aman">Twitter</a> •
+  <a href="https://github.com/satyawaniaman">GitHub</a>
+</p>
+
+---
+
+### About Me
+- Passionate about **building scalable, production-ready applications** with focus on performance and system design.  
+- Currently building **[Synclick](https://synclick.space)** — a geo-aware SmartLink SaaS with AI link analytics and Cloudflare edge infra (Workers, KV, D1, R2, Durable Objects).  
+- Exploring **Cloudflare ecosystem** — edge compute, queues, durable objects, and real-time analytics.  
+- Reach me at **amansatyawani10@gmail.com**  
+
+---
 
 
-- 🔭 I'm currently working on **Solana and Anchor framework**
+### Tech Stack
 
-
-- 🌱 I'm currently learning **Web Animations using gsap webGL**
-
-- 💬 Ask me about **Solana Ecosystem, Designing, Next.js, Rust, Etc.**
-
-- 📫 How to reach me **amansatyawani10@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<div style="display: flex; flex-direction: row; align-items: center;">
-    <a href="https://x.com/satyawani_aman">
-     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" height="40" style="margin-right: 10px;" />
-    </a>
-  <a href="https://www.linkedin.com/in/aman-satyawani-2566a5222/">
-     <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" width="40" height="40" style="margin-right: 10px;" />
-  </a>
+#### Frontend
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" height="40" width="42"/>
 </div>
 
-### Frontend
-<div style="display: flex; flex-direction: row; align-items: center;">
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40" style="margin-right: 10px;" />
+#### Backend / API
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="40" />
+    <img src="https://hono.dev/images/logo.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trpc/trpc-original.svg" height="40" width="42"/>
 </div>
 
-### Backend and Databases
-<div style="display: flex; flex-direction: row; align-items: center;">
-  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40" style="margin-right: 10px;" />
-    <img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" width="40" height="40" style="margin-right: 10px;" />
+#### Databases & Storage
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" width="40" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" width="40" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" width="40" />
 </div>
 
-### DevOps & Cloud Champion
-<div style="display: flex; flex-direction: row; align-items: center;">
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" style="margin-right: 10px;" />
+#### Cloud & Edge
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="42"/>
 </div>
 
-### Code Sorcery
-<div style="display: flex; flex-direction: row; align-items: center;">
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40" style="margin-right: 10px;" />
-  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40" style="margin-right: 10px;" />
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40" style="margin-right: 10px;" />
+#### Languages
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="40" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="42" />
 </div>
 
-  <img aligt="left" src="https://github-readme-stats.vercel.app/api?username=satyawaniaman&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="aman satywani" />
+---
+
+### 📊 GitHub Stats
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=satyawaniaman&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Aman Satywani GitHub stats" />
