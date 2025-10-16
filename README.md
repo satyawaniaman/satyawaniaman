@@ -11,9 +11,9 @@
 ---
 
 ### About Me
-- Passionate about **building scalable, production-ready applications** with focus on performance and system design.  
+- Passionate about **building scalable, production-ready applications** with focus on performance and type safety.  
 - Currently building **[Synclick](https://synclick.space)** — a geo-aware SmartLink SaaS with AI link analytics and Cloudflare edge infra (Workers, KV, D1, R2, Durable Objects).  
-- Exploring **Cloudflare ecosystem** — edge compute, queues, durable objects, and real-time analytics.  
+- Learning/Building **AI** Applications.  
 - Reach me at **amansatyawani10@gmail.com**  
 
 ---
