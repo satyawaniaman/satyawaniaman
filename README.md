@@ -58,9 +58,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="40" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="42" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=satyawaniaman&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Aman Satywani GitHub stats" />
+### GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=satyawaniaman&show_icons=true&theme=dark" />
