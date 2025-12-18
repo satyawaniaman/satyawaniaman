@@ -9,15 +9,14 @@
 ---
 
 ### Tech Stack  
-- **Languages:** TypeScript, Rust.  
-- **Frameworks & Tools:** Next.js, TailwindCSS, Motion, Node.js, Express, tRPC.  
-- **Databases & Storage:** PostgreSQL, Redis.
-- **Cloud & Edge:** Docker, Nginx, AWS, Vercel.
+- **Languages:** TypeScript, Rust, Python.  
+- **Frameworks & Tools:** Next.js, TailwindCSS, Motion, Express, tRPC.  
+- **Databases:** PostgreSQL, Redis.
+- **Cloud & Infra:** Docker, Nginx, AWS, Vercel.
 
 ---
 
 ### Things I'm Learning  
-- **Languages:** Meta programming
 - **Frameworks & Tools:** Fastapi  
 - **Misc:** reading system design  
 
