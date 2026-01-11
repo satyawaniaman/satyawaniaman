@@ -2,7 +2,7 @@
 
 - a full stack web developer based in India.
 - I'm building:
-- **[Tess Radar](https://tessradar.online/)** — AI Prediction market Research aggregator Platform (kalshi,polymarket). 
+- **[Tess Radar](https://tessradar.com/)** — Unified Prediction market aggregator API Platform (kalshi,polymarket) along with AI Research API. 
 - **[Auralis Cloud](https://auraliscloud.xyz/)** — The distributed compute network for AI builders.
 - **[Xandeum Analytics](https://.com/)** — The one stop monitoring platform for Xandeum pNodes with live pricecharts, swaps.
 - Check out my **[personal site](https://amansatyawani.online/)** for more projects.  
